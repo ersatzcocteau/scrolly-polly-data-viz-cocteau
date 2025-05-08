@@ -35,38 +35,38 @@
 	// ===================================================================
 	const chartInfo = [
 		{
-			title: "Lorem Ipsum",
-			description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor.",
+			title: "The Beginning",
+			description: "The foundation of our future is being built today, with technologies that will reshape how we live, work, and interact with the world around us.",
 			alignment: "left"
 		},
 		{
-			title: "Lorem Ipsum",
-			description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat.",
+			title: "Digital Transformation",
+			description: "As digital technologies become increasingly integrated into every aspect of our lives, the boundary between physical and virtual continues to blur.",
 			alignment: "center"
 		},
 		{
-			title: "Lorem Ipsum",
-			description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat.",
+			title: "Global Connectivity",
+			description: "The world becomes more interconnected each day, creating new opportunities for collaboration and innovation across traditional boundaries.",
 			alignment: "right"
 		},
 		{
-			title: "Lorem Ipsum",
-			description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor.",
+			title: "Artificial Intelligence",
+			description: "AI systems are evolving from simple automation tools to creative partners, augmenting human capabilities and reshaping how we solve complex problems.",
 			alignment: "left"
 		},
 		{
-			title: "Lorem Ipsum",
-			description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor.",
+			title: "Sustainable Technology",
+			description: "The pressing need for environmental solutions is driving innovation toward technologies that can help us create a more sustainable future for our planet.",
 			alignment: "center"
 		},
 		{
-			title: "Lorem Ipsum",
-			description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat.",
+			title: "New Frontiers",
+			description: "From space exploration to quantum computing, emerging technologies are opening up entirely new possibilities that were once confined to science fiction.",
 			alignment: "right"
 		},
 		{
-			title: "Lorem Ipsum",
-			description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor.",
+			title: "Human-Technology Convergence",
+			description: "The integration of technology with human biology and cognition represents perhaps the most profound transformation in our evolutionary journey.",
 			alignment: "center"
 		}
 	];
@@ -151,8 +151,8 @@
 <div class="fullscreen-chapter header-image">
 	<div class="header-overlay"></div>
 	<div class="header-content">
-		<h1 class="main-title">Article Title Goes Here</h1>
-		<h2 class="sub-title">Authors // Date</h2>
+		<h1 class="main-title">Timeline to the Future</h1>
+		<h2 class="sub-title">Martina and Rosario // May 2025</h2>
 	</div>
 </div>
 
@@ -163,13 +163,13 @@
 // ===================================================================
 -->
 <div class="content-container">
-	<p class="content-paragraph">Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.</p>
-	<p class="content-paragraph">Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.</p>
+	<p class="content-paragraph">The future unfolds before us, shaped by technological innovations that transform how we live, work, and connect. This exploration charts the course of these developments, from early breakthroughs to the revolutionary changes on the horizon. Through data visualization and narrative, we examine the forces driving us toward tomorrow.</p>
+	<p class="content-paragraph">We stand at a unique moment in human history, where the pace of change continues to accelerate. Technologies that seemed like science fiction a decade ago are now becoming commonplace, while new possibilities emerge daily. Understanding these dynamics helps us navigate the opportunities and challenges ahead.</p>
 	<div class="image-left">
-		<img src="../../src/TestExample/Images/placeholder.png" alt="Square placeholder" />
+		<img src="../../src/TestExample/Images/placeholder.png" alt="Technology concept" />
 	</div>
-	<p class="content-paragraph">Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.</p>
-	<p class="content-paragraph">Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.</p>
+	<p class="content-paragraph">This journey through our technological future examines both the tangible innovations being developed today and their potential long-term impacts. We'll explore how emerging technologies intersect and amplify each other, creating new possibilities that transform industries, communities, and individual lives.</p>
+	<p class="content-paragraph">Beyond the technical details, we'll consider how these changes affect human experience and social structures. The most profound impacts often come not from the technologies themselves, but from how they reshape our relationships, institutions, and understanding of ourselves.</p>
 </div>
 
 <!-- 
@@ -180,10 +180,10 @@
 -->
 <div class="fullscreen-chapter black-bg">
 	<div class="content-container">
-		<h2>section header</h2>
-		<p class="content-paragraph">Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.</p>
-		<p class="content-paragraph">Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.</p>
-		<p class="content-paragraph">Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.</p>
+		<h2>Navigating Change</h2>
+		<p class="content-paragraph">The evolution of technology rarely follows a linear path. Instead, it emerges through complex interactions between scientific breakthroughs, social needs, economic incentives, and cultural values. By mapping these relationships, we can better anticipate how current developments might evolve into transformative solutions.</p>
+		<p class="content-paragraph">Throughout history, technological shifts have been accompanied by social and institutional adaptations. As we develop increasingly powerful tools, we simultaneously need to evolve our frameworks for governance, ethics, and meaning-making. The most successful transitions occur when technological and social innovation advance in harmony.</p>
+		<p class="content-paragraph">The visualizations that follow represent different dimensions of our technological future. Each offers a perspective on how specific innovations are evolving and converging to create new possibilities. Together, they illustrate the multifaceted nature of technological change and its implications for humanity's path forward.</p>
 	</div>
 </div>
 
@@ -196,12 +196,12 @@
 <div style="min-height:730px" id="datawrapper-vis-V8sUH"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/V8sUH/embed.js" charset="utf-8" data-target="#datawrapper-vis-V8sUH"></script><noscript><img src="https://datawrapper.dwcdn.net/V8sUH/full.png" alt="" /></noscript></div>
 
 <div class="content-container">
-	<p class="content-paragraph">Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.</p>
-	<p class="content-paragraph">Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.</p>
+	<p class="content-paragraph">Innovation ecosystems are emerging globally as technology development becomes increasingly distributed. While traditional centers like Silicon Valley remain important, new hubs are arising across Asia, Europe, Africa, and Latin America, each with distinctive strengths and approaches. This geographical diversification accelerates cross-pollination of ideas.</p>
+	<p class="content-paragraph">Different regions emphasize diverse technological priorities based on their specific challenges, resources, and cultural values. These variations create a natural laboratory where multiple approaches can be tested simultaneously. The most successful innovations often incorporate insights from these diverse perspectives.</p>
 	<div style="min-height:430px" id="datawrapper-vis-FkN5a"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/FkN5a/embed.js" charset="utf-8" data-target="#datawrapper-vis-FkN5a"></script><noscript><img src="https://datawrapper.dwcdn.net/FkN5a/full.png" alt="" /></noscript></div>
 	<p></p>
-	<p class="content-paragraph">Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.</p>
-	<p class="content-paragraph">Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.</p>
+	<p class="content-paragraph">Investment patterns reveal shifting priorities in technological development. Funding increasingly flows toward innovations that address critical challenges in sustainability, healthcare access, and digital inclusion. This reallocation of resources accelerates progress in these domains while potentially slowing development in others.</p>
+	<p class="content-paragraph">The timeline to widespread adoption varies significantly across technologies. Some innovations, particularly in software and digital services, can scale globally in months. Others, especially those requiring physical infrastructure or regulatory approval, may take decades to reach their full potential. Understanding these different timescales helps set realistic expectations for change.</p>
 </div>
 
 <!-- 
@@ -233,7 +233,7 @@
 			{:else if number === 2}
 				<!-- Section 2: Full-screen image -->
 				<div class="fullscreen-image-container">
-					<img src="../src/TestExample/Images/placehold-19201080-orange.png" alt="Full screen placeholder" class="fullscreen-image" />
+					<img src="../src/TestExample/Images/placehold-19201080-orange.png" alt="Digital transformation visualization" class="fullscreen-image" />
 				</div>
 			
 			{:else if number === 3}
@@ -263,7 +263,7 @@
 			{:else if number === 5}
 				<!-- Section 5: Full-screen image -->
 				<div class="fullscreen-image-container">
-					<img src="../src/TestExample/Images/placehold-19201080-blue.png" alt="Full screen placeholder" class="fullscreen-image" />
+					<img src="../src/TestExample/Images/placehold-19201080-blue.png" alt="Sustainability visualization" class="fullscreen-image" />
 				</div>
 			
 			{:else if number === 6}
@@ -307,10 +307,10 @@
 // ===================================================================
 -->
 <div class="content-container">
-	<p class="content-paragraph">Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.</p>
-	<p class="content-paragraph">Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.</p>
-	<p class="content-paragraph">Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.</p>
-	<p class="content-paragraph">Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.</p>
+	<p class="content-paragraph">The convergence of these technological streams will reshape what it means to be human in the coming decades. Boundaries between physical and digital realms will continue to blur, creating hybrid experiences that combine the best of both worlds. Our relationship with machines will become more symbiotic as AI systems become more capable of understanding context and collaborating effectively.</p>
+	<p class="content-paragraph">As these tools become more powerful, questions of access and governance become increasingly important. Who benefits from these technologies, and who decides how they're developed and deployed? Creating inclusive approaches to innovation ensures that technological progress translates into broadly shared prosperity and wellbeing.</p>
+	<p class="content-paragraph">The democratization of powerful technologies creates both opportunities and risks. As tools that were once restricted to specialized institutions become accessible to small teams and individuals, innovation can accelerate and diversify. However, this same dynamic makes governance more challenging, requiring new approaches to managing technologies with significant societal implications.</p>
+	<p class="content-paragraph">Despite these challenges, there is reason for optimism. Human ingenuity has consistently found ways to channel technological change toward positive outcomes. By maintaining focus on core values like human dignity, environmental stewardship, and inclusive prosperity, we can shape these powerful tools to create a future that expands rather than diminishes human flourishing.</p>
 </div>
 
 <!-- 
@@ -321,18 +321,18 @@
 -->
 <div class="fullscreen-chapter beige-bg">
 	<div class="content-container">
-		<h2>new section header</h2>
-		<p class="content-paragraph">Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.</p>
-		<p class="content-paragraph">Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.</p>
+		<h2>Shaping Our Future</h2>
+		<p class="content-paragraph">The future isn't predetermined; it's created through countless decisions made by individuals, organizations, and societies. By understanding the technologies that will shape tomorrow, we can make more informed choices today. Each of us has a role in steering these powerful tools toward outcomes that align with our deepest values.</p>
+		<p class="content-paragraph">Engagement is crucial. The future belongs to those who participate in creating it. Whether through technological development, policy advocacy, artistic expression, or ethical discourse, each contribution helps guide our collective journey toward a future we want to inhabit.</p>
 	</div>
 </div>
 
 <div class="content-container">
-	<p class="content-paragraph">Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.</p>
-	<p class="content-paragraph">Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.</p>
+	<p class="content-paragraph">Innovation increasingly happens at the intersection of disciplines. The most transformative developments often emerge when expertise from different domains combines in novel ways. This cross-pollination of ideas accelerates breakthrough solutions to complex challenges.</p>
+	<p class="content-paragraph">Distributed collaboration enables global problem-solving at unprecedented scales. Digital platforms allow diverse participants to contribute regardless of location, creating powerful collective intelligence. These networked approaches are particularly effective for addressing multifaceted global challenges.</p>
 	<div style="min-height:591px" id="datawrapper-vis-bbmLi"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/bbmLi/embed.js" charset="utf-8" data-target="#datawrapper-vis-bbmLi"></script><noscript><img src="https://datawrapper.dwcdn.net/bbmLi/full.png" alt="" /></noscript></div>	<p></p>
-	<p class="content-paragraph">Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.</p>
-	<p class="content-paragraph">Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.</p>
+	<p class="content-paragraph">Long-term thinking becomes increasingly valuable in a world of accelerating change. By considering multiple time horizons simultaneously, we can better navigate immediate challenges while steering toward desirable futures. This balanced perspective helps avoid short-term solutions that create larger problems down the road.</p>
+	<p class="content-paragraph">The most profound innovations often transform not just what we can do, but how we understand ourselves and our world. As we develop increasingly sophisticated tools, we simultaneously evolve new frameworks for making sense of our changing reality. This co-evolution of technology and meaning will define the coming decades.</p>
 </div>
 
 <!-- 
@@ -344,13 +344,13 @@
 <footer class="site-footer">
 	<div class="footer-container">
 		<div class="footer-content">
-			<h3 class="footer-heading">Lorem Ipsum</h3>
-			<p class="footer-text">Lorem ipsum dolor sit amet consectetur adipiscing elit.</p>
-			<p class="footer-text">Lorem ipsum dolor sit amet consectetur adipiscing elit.</p>
-			<p class="footer-text">Lorem ipsum dolor sit amet consectetur adipiscing elit.</p>
+			<h3 class="footer-heading">Timeline to the Future</h3>
+			<p class="footer-text">A visual exploration of technological evolution and its impact on society.</p>
+			<p class="footer-text">Created by Martina and Rosario, May 2025</p>
+			<p class="footer-text">Contact: future@timelineproject.org</p>
 		</div>
 		<div class="footer-links">
-			<p class="footer-text">This project is an adaptation of the of <a href="https://github.com/abcnews/scrollyteller)">Scrollyteller</a> by ABC News.</p>
+			<p class="footer-text">This project is an adaptation of the <a href="https://github.com/abcnews/scrollyteller">Scrollyteller</a> by ABC News.</p>
 		</div>
 	</div>
 </footer>
